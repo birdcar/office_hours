@@ -1,0 +1,50 @@
+2020-01-14 12:19:17,093 - xtesting.ci.run_tests - INFO - Deployment description:
+
++-------------------------+-------------------------------------------------------------------------------------------------------------------+
+|         ENV VAR         |                                                       VALUE                                                       |
++-------------------------+-------------------------------------------------------------------------------------------------------------------+
+|     TEST_DB_EXT_URL     |                                  http://testresults.opnfv.org/test/api/v1/results                                 |
+|        S3_DST_URL       |      s3://artifacts.opnfv.org/cntt/HNBP04FCBP13/cntt-opnfv-functest-healthcheck-latest-tenantnetwork2-run-17      |
+|     S3_ENDPOINT_URL     |                                           https://storage.googleapis.com                                          |
+|     DEPLOY_SCENARIO     |                                               os-nosdn-nofeature-ha                                               |
+|        BUILD_TAG        |                                                    HNBP04FCBP13                                                   |
+|          DEBUG          |                                                        true                                                       |
+|      INSTALLER_TYPE     |                                                        cntt                                                       |
+|         CI_LOOP         |                                                       daily                                                       |
+|       TEST_DB_URL       |                                  http://testresults.opnfv.org/test/api/v1/results                                 |
+|       HTTP_DST_URL      |     http://artifacts.opnfv.org/cntt/HNBP04FCBP13/cntt-opnfv-functest-healthcheck-latest-tenantnetwork2-run-17     |
+|        NODE_NAME        |                                                    intel-pod15                                                    |
++-------------------------+-------------------------------------------------------------------------------------------------------------------+
+
+2020-01-14 12:19:17,097 - xtesting.ci.run_tests - INFO - Sourcing env file /var/lib/xtesting/conf/env_file
+
+export OS_AUTH_URL=http://identity-airship.intel-pod15.opnfv.org/v3
+export OS_USER_DOMAIN_NAME=default
+export OS_PROJECT_DOMAIN_NAME=default
+export OS_USERNAME=admin
+export OS_PROJECT_NAME=admin
+export OS_PASSWORD=password123
+export OS_IDENTITY_API_VERSION=3
+export OS_INTERFACE=public
+export OS_REGION_NAME=intel-pod15
+
+2020-01-14 12:19:17,097 - xtesting.ci.run_tests - DEBUG - Test args: tenantnetwork2
+2020-01-14 12:19:17,122 - xtesting.ci.run_tests - INFO - Loading test case 'tenantnetwork2'...
+2020-01-14 12:19:17,841 - functest.core.tenantnetwork - DEBUG - password: aof=z@T@_KjADS*4Y^J)Rpqi3~J4V!
+2020-01-14 12:19:18,008 - functest.core.tenantnetwork - DEBUG - project: Munch({'is_enabled': True, 'is_domain': False, 'description': u'Created by OPNFV Functest: tenantnetwork2', 'enabled': True, 'id': u'f0ce5dddf2b0428d94ff97b122c67d42', 'parent_id': u'default', 'properties': Munch({}), 'location': Munch({'project': Munch({'domain_id': u'default', 'id': u'default', 'name': None, 'domain_name': None}), 'zone': None, 'region_name': None, 'cloud': 'envvars'}), 'domain_id': u'default', 'name': u'tenantnetwork2-project_4da75503-7d7e-42f9-bf51-4c457fd8a958'})
+2020-01-14 12:19:18,087 - functest.core.tenantnetwork - DEBUG - user: Munch({'username': None, 'description': None, 'enabled': True, 'id': u'3ab395d51415410389ccebe580274a55', 'email': None, 'default_project_id': None, 'domain_id': u'default', 'name': u'tenantnetwork2-user_4da75503-7d7e-42f9-bf51-4c457fd8a958'})
+2020-01-14 12:19:18,638 - functest.core.tenantnetwork - DEBUG - cloud_config {'clouds': {'envvars': {u'auth_type': u'password', u'status': u'active', 'project_name': u'tenantnetwork2-project_4da75503-7d7e-42f9-bf51-4c457fd8a958', u'compute_api_version': u'2', 'key': None, u'database_api_version': u'1.0', 'user_domain_name': 'default', 'api_timeout': None, u'baremetal_api_version': u'1', u'image_api_version': u'2', u'container_infra_api_version': u'1', u'metering_api_version': u'2', u'image_api_use_tasks': False, u'floating_ip_source': u'neutron', 'project_domain_name': 'default', u'orchestration_api_version': u'1', 'cacert': None, u'network_api_version': u'2', u'message': u'', u'image_format': u'qcow2', u'application_catalog_api_version': u'1', 'region_name': 'intel-pod15', u'key_manager_api_version': u'v1', 'password': 'aof=z@T@_KjADS*4Y^J)Rpqi3~J4V!', u'workflow_api_version': u'2', 'verify': True, u'identity_api_version': '3', u'volume_api_version': u'2', 'username': u'tenantnetwork2-user_4da75503-7d7e-42f9-bf51-4c457fd8a958', 'project_id': u'f0ce5dddf2b0428d94ff97b122c67d42', 'cert': None, u'secgroup_source': u'neutron', u'container_api_version': u'1', 'auth_url': 'http://identity-airship.intel-pod15.opnfv.org/v3', u'dns_api_version': u'2', u'object_store_api_version': u'1', u'interface': 'public', u'disable_vendor_agent': {}}}}
+2020-01-14 12:19:18,642 - functest.core.tenantnetwork - DEBUG - new cloud {'username': u'tenantnetwork2-user_4da75503-7d7e-42f9-bf51-4c457fd8a958', 'password': 'aof=z@T@_KjADS*4Y^J)Rpqi3~J4V!', 'project_name': 'tenantnetwork2-project_4da75503-7d7e-42f9-bf51-4c457fd8a958', 'user_domain_name': 'default', 'auth_url': 'http://identity-airship.intel-pod15.opnfv.org/v3', 'project_id': 'f0ce5dddf2b0428d94ff97b122c67d42', 'project_domain_name': 'default'}
+2020-01-14 12:19:18,643 - xtesting.ci.run_tests - INFO - Running test case 'tenantnetwork2'...
+2020-01-14 12:19:19,737 - functest.core.tenantnetwork - DEBUG - network: Munch({u'status': u'ACTIVE', u'subnets': [], u'description': u'', u'provider:physical_network': None, u'tags': [], u'updated_at': u'2020-01-14T12:19:19Z', u'ipv6_address_scope': None, u'revision_number': 3, u'port_security_enabled': True, u'mtu': 1450, u'id': u'167ede16-07d8-42a5-ae81-aafd7ef52e9a', u'provider:segmentation_id': 1, u'router:external': False, u'availability_zone_hints': [], u'availability_zones': [], u'name': u'tenantnetwork2-net_4da75503-7d7e-42f9-bf51-4c457fd8a958', u'admin_state_up': True, u'tenant_id': u'f0ce5dddf2b0428d94ff97b122c67d42', u'created_at': u'2020-01-14T12:19:19Z', u'provider:network_type': u'vxlan', u'ipv4_address_scope': None, u'shared': False, u'project_id': u'f0ce5dddf2b0428d94ff97b122c67d42'})
+2020-01-14 12:19:21,649 - functest.core.tenantnetwork - DEBUG - subnet: Munch({u'description': u'', u'tags': [], u'updated_at': u'2020-01-14T12:19:20Z', u'ipv6_ra_mode': None, u'allocation_pools': [{u'start': u'192.168.120.2', u'end': u'192.168.120.254'}], u'host_routes': [], u'revision_number': 2, u'ipv6_address_mode': None, u'cidr': u'192.168.120.0/24', u'id': u'1af39d0b-8a86-4b3d-a584-6f5918fd33ed', u'subnetpool_id': None, u'service_types': [], u'name': u'tenantnetwork2-subnet_4da75503-7d7e-42f9-bf51-4c457fd8a958', u'enable_dhcp': True, u'network_id': u'167ede16-07d8-42a5-ae81-aafd7ef52e9a', u'tenant_id': u'f0ce5dddf2b0428d94ff97b122c67d42', u'created_at': u'2020-01-14T12:19:20Z', u'dns_nameservers': [u'8.8.8.8'], u'gateway_ip': u'192.168.120.1', u'ip_version': 4, u'project_id': u'f0ce5dddf2b0428d94ff97b122c67d42'})
+2020-01-14 12:19:32,298 - functest.core.tenantnetwork - DEBUG - router: Munch({u'status': u'ACTIVE', u'description': u'', u'tags': [], u'updated_at': u'2020-01-14T12:19:27Z', u'revision_number': 6, u'id': u'2ea6566b-a3a5-4f06-9b00-711e35381c05', u'external_gateway_info': {u'network_id': u'51dbd925-4d1c-433c-b7dc-48494cbb8f82', u'enable_snat': True, u'external_fixed_ips': [{u'subnet_id': u'd731cb65-e125-4491-b505-fbc39adfd4bd', u'ip_address': u'10.10.155.52'}]}, u'availability_zone_hints': [], u'availability_zones': [], u'name': u'tenantnetwork2-router_4da75503-7d7e-42f9-bf51-4c457fd8a958', u'admin_state_up': True, u'tenant_id': u'f0ce5dddf2b0428d94ff97b122c67d42', u'created_at': u'2020-01-14T12:19:23Z', u'flavor_id': None, u'routes': [], u'project_id': u'f0ce5dddf2b0428d94ff97b122c67d42'})
+2020-01-14 12:19:35,117 - xtesting.ci.run_tests - INFO - Test result:
+
++------------------------+------------------+------------------+----------------+
+|       TEST CASE        |     PROJECT      |     DURATION     |     RESULT     |
++------------------------+------------------+------------------+----------------+
+|     tenantnetwork2     |     functest     |      00:16       |      PASS      |
++------------------------+------------------+------------------+----------------+
+
+2020-01-14 12:19:49,786 - xtesting.core.testcase - DEBUG - Publishing /home/opnfv/functest/results/functest.log ('text/plain', None)
