@@ -1,0 +1,7 @@
+setuptools
+wheel
+ipython
+mypy
+black
+flake8
+bandit

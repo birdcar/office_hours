@@ -1,0 +1,264 @@
+Firefox (1.x->3.x) Passwords:
+
+
+ serv - http://fr-fr.facebook.com 
+ email       : roi_de_la_casse@hotmail.com
+ pass        : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://fr.youtube.com 
+ username    : Sargerans 
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://snowtigers.net 
+ username    : Maxter    
+ password    : WOW071789788
+-----------------------------------------
+
+ serv - https://login.facebook.com 
+ email       : roi_de_la_casse@hotmail.com
+ pass        : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://hostarea.org 
+ login       : Sargeran  
+ pass        : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.facebook.com 
+ email       : roi_de_la_casse@hotmail.com
+ pass        : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.forumactif.com 
+             :           
+ password2   : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://pubgoogle.forumactif.net 
+ username    : Admin     
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - https://www.google.com 
+ Email       : Sargeran@hotmail.com
+ Passwd      : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://absoluthacker.com 
+ email_confirm  : roi_de_la_casse@hotmail.com
+ new_password  : zzqqh9qy  
+ username    : Sargeran  
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.absoluthacker.com 
+ username    : Sargeran  
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://gm-wow.no-ip.org 
+ username    : Xaro      
+ passw       : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://steven.fr.free.fr 
+ pseudo      : Sargeran  
+ pass        : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://alpha.team-frenchie.com 
+ username    : Sargeran;)
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.evoxis.info 
+ connect_username  : Sargeran  
+ connect_pass  : 7uysPDaQC 
+-----------------------------------------
+
+ serv - http://www.youtube.com 
+ username    : Sargerans 
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.dll-provider.com 
+ email       : roi_de_la_casse@hotmail.com
+ pass        : zzqqh9qy  
+-----------------------------------------
+
+ serv - https://store.steampowered.com 
+ username    : Sargerans 
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - https://support.steampowered.com 
+ username    : roi_de_la_casse@hotmail.com
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.darluok-server.com 
+ txt_login   : Maxter    
+ txt_mdp     : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.dgserv-wow.com 
+ login       : Sargeran  
+ mdp         : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.rewards1.com 
+ email2      : roi_de_la_casse@hotmail.com
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.freesteam.org 
+ username    : Sargerans 
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.torofile.com 
+ username    : Sargeran  
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://boxstr.com 
+ userinfo[name]  : sargeran  
+ userinfo[pass1]  : zzqqh9qy  
+-----------------------------------------
+www.mutX.org - contact mutX on MSN for unique/undetected versions & more (xxd00dxx@hotmail.com)Firefox (1.x->3.x) Passwords:
+
+
+ serv - http://fr-fr.facebook.com 
+ email       : roi_de_la_casse@hotmail.com
+ pass        : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://fr.youtube.com 
+ username    : Sargerans 
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://snowtigers.net 
+ username    : Maxter    
+ password    : WOW071789788
+-----------------------------------------
+
+ serv - https://login.facebook.com 
+ email       : roi_de_la_casse@hotmail.com
+ pass        : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://hostarea.org 
+ login       : Sargeran  
+ pass        : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.facebook.com 
+ email       : roi_de_la_casse@hotmail.com
+ pass        : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.forumactif.com 
+             :           
+ password2   : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://pubgoogle.forumactif.net 
+ username    : Admin     
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - https://www.google.com 
+ Email       : Sargeran@hotmail.com
+ Passwd      : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://absoluthacker.com 
+ email_confirm  : roi_de_la_casse@hotmail.com
+ new_password  : zzqqh9qy  
+ username    : Sargeran  
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.absoluthacker.com 
+ username    : Sargeran  
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://gm-wow.no-ip.org 
+ username    : Xaro      
+ passw       : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://steven.fr.free.fr 
+ pseudo      : Sargeran  
+ pass        : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://alpha.team-frenchie.com 
+ username    : Sargeran;)
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.evoxis.info 
+ connect_username  : Sargeran  
+ connect_pass  : 7uysPDaQC 
+-----------------------------------------
+
+ serv - http://www.youtube.com 
+ username    : Sargerans 
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.dll-provider.com 
+ email       : roi_de_la_casse@hotmail.com
+ pass        : zzqqh9qy  
+-----------------------------------------
+
+ serv - https://store.steampowered.com 
+ username    : Sargerans 
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - https://support.steampowered.com 
+ username    : roi_de_la_casse@hotmail.com
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.darluok-server.com 
+ txt_login   : Maxter    
+ txt_mdp     : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.dgserv-wow.com 
+ login       : Sargeran  
+ mdp         : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.rewards1.com 
+ email2      : roi_de_la_casse@hotmail.com
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.freesteam.org 
+ username    : Sargerans 
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.torofile.com 
+ username    : Sargeran  
+ password    : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://boxstr.com 
+ userinfo[name]  : sargeran  
+ userinfo[pass1]  : zzqqh9qy  
+-----------------------------------------
+
+ serv - http://www.veoh.com 
+ u           : Sargeran  
+ p           : zzqqh9qy  
+-----------------------------------------
+www.mutX.org - contact mutX on MSN for unique/undetected versions & more (xxd00dxx@hotmail.com)
